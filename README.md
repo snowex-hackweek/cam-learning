@@ -1,6 +1,6 @@
-# Sample Project
+# Camera Data Machine Learning Project
 
-This is as an example on how teams can structure their project repositories. Thanks to Lindsey Heagey and Joachim Meyer for the template!
+from the project template
 
 ## Files
 
@@ -28,23 +28,30 @@ Helper utilities that are shared with the team
 
 ### Project Title
 
-Brief title describing the proposed work.
+Camera Machine LEarning
 
 ### Collaborators on this project
 
-List all participants on the project. Choose one team member to act as project lead, and identify one hackweek organizer as the data science lead.
+Daniel Hogan
+Marianne Cowherd
+Mark Raleigh
+Katie Breen
+Ibrahim Olalekan Alabi
+Evi Ofekeze
+Ching-ping Yu
+Jukes Liu
 
 ### The problem
 
-What problem are you going to explore? Provide a few sentences. If this is a technical exploration of software or data science methods, explain why this work is important in a broader context.
+Camera data? What do we do with it
 
 ### Application Example
 
-List one specific application of this work.
+
 
 ### Sample data
 
-If you already have some data to explore, briefly describe it here (size, format, how to access).
+picture
 
 ### Specific Questions
 
