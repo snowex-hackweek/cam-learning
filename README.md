@@ -35,8 +35,8 @@ Camera Machine LEarning
 | Name   |      Role|
 |----------|:-------------:|
 | Katie Breen|   |
-| Marianne Cowherd |    centered   | 
-| Daniel Hogan | right-aligned |
+| Marianne Cowherd |      | 
+| Daniel Hogan |  |
 | Jukes Liu | |
 | Evi Ofekeze| |
 | Ibrahim Olalekan Alabi| |
