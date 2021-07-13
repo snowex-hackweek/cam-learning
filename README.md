@@ -32,14 +32,15 @@ Camera Machine LEarning
 
 ### Collaborators on this project
 
-Daniel Hogan
-Marianne Cowherd
-Mark Raleigh
-Katie Breen
-Ibrahim Olalekan Alabi
-Evi Ofekeze
-Ching-ping Yu
-Jukes Liu
+| Name   |      Role|
+|----------|:-------------:|
+| Katie Breen|   |
+| Marianne Cowherd |    centered   | 
+| Daniel Hogan | right-aligned |
+| Jukes Liu | |
+| Evi Ofekeze| |
+| Ibrahim Olalekan Alabi| |
+| Mark Raleigh| |
 
 ### The problem
 
