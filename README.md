@@ -48,7 +48,7 @@ Camera Machine LEarning
 
 With the camera data, we are solving two problems: 
 1. Machine Learning Algorithms for Automated Snow Depth
-2. Binary Classidier for Snow In/ Not in in Canopy 
+2. Binary Classifier for Snow In/ Not in in Canopy 
 
 ### Application Example
 
